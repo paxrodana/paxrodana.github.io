@@ -1,0 +1,14 @@
+name: "pax-website"
+navbar:
+   title: "Pax Bakke" 
+   left:
+	- text: "Home"
+	href: index.html
+   right:
+	- icon: fa-envelope fa-lg
+	href: mailto:<pax.bakke@unh.edu>
+	- icon: fa-github fa-lg
+	href: http://github.com/<paxrodana>/
+output:
+   html_document:
+	theme: lumen

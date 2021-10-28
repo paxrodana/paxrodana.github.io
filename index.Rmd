@@ -1,0 +1,9 @@
+---
+title: "Pax Bakke"
+output: pdf_document
+knitr::include_graphics() 
+
+---
+
+Hi, I'm Pax.
+![Photo of Pax at Los Riscos Bayos in the province of Neuquen, Argentina](/'paxpic.JPG') 
